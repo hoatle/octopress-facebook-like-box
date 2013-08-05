@@ -4,6 +4,11 @@ octopress-facebook-like-box
 The Facebook like-box plugin for octopress from
 https://developers.facebook.com/docs/reference/plugins/like-box/
 
+Requirements
+------------
+
+- [Octopress](http://octopress.org) version 2.0
+
 
 How to install
 --------------
