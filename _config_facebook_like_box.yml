@@ -1,0 +1,24 @@
+# Custom settings for https://developers.facebook.com/docs/reference/plugins/like-box/
+# the URL of the Facebook Page for this Like Box. Note: After July 2013 migration, href should be
+# an absolute URL.
+facebook_like_box_href:
+# the width of the plugin in pixels. Default width: 300px.
+facebook_like_box_width: 260
+# the height of the plugin in pixels. The default height varies based on number of faces to display,
+# and whether the stream is displayed. With the stream displayed, and 10 faces the default height is
+# 556px. With no faces, and no stream the default height is 63px.
+facebook_like_box_height:
+# the color scheme for the plugin. Options: 'light', 'dark'
+facebook_like_box_colorschema:
+# specifies whether or not to display profile photos in the plugin. Default value: true.
+facebook_like_box_show_faces:
+# specifies whether to display a stream of the latest posts from the Page's wall.
+facebok_like_box_stream:
+# specifies whether to display the Facebook header at the top of the plugin.
+facebook_like_box_header: false
+# specifies whether or not to show a border around the plugin, default true.
+# Set to false to style the iframe with your custom CSS.
+facebook_like_box_show_border: false
+# for Places, specifies whether the stream contains posts from the Place's wall or just checkins
+# from friends. Default value: false.
+facebook_like_box_force_wall:
